@@ -10,7 +10,7 @@
 
 title: Python Storage# the main title
 
-tagline: Python, Yolo, OpenCv  # it will display as the sub-title
+tagline: Python, Yolo, OpenCv  		# it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,

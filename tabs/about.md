@@ -1,5 +1,5 @@
 ---
-title: About
+title: 블로그의 주제가 무엇이냐?
 
 # The About page
 # v2.0
@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+> Windows를 위한 Python, Yolo OpenCv 관련 자료 모음
