@@ -1,5 +1,5 @@
 ---
-title: 블로그의 주제가 무엇이냐?
+title: About
 
 # The About page
 # v2.0
